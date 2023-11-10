@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... Arts Technology and Software Development
 - 📫 How to reach me ... Lianne#4830
 - 🐱‍🐉 Email Address ... lianne.campbell@keyin.com
+- Commit New Changes
+
 
 <!---
 LianneCampbell/LianneCampbell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
